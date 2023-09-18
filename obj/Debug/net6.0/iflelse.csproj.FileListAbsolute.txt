@@ -1,0 +1,14 @@
+D:\Sites\iflelse\bin\Debug\net6.0\iflelse.exe
+D:\Sites\iflelse\bin\Debug\net6.0\iflelse.deps.json
+D:\Sites\iflelse\bin\Debug\net6.0\iflelse.runtimeconfig.json
+D:\Sites\iflelse\bin\Debug\net6.0\iflelse.dll
+D:\Sites\iflelse\bin\Debug\net6.0\iflelse.pdb
+D:\Sites\iflelse\obj\Debug\net6.0\iflelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\iflelse\obj\Debug\net6.0\iflelse.AssemblyInfoInputs.cache
+D:\Sites\iflelse\obj\Debug\net6.0\iflelse.AssemblyInfo.cs
+D:\Sites\iflelse\obj\Debug\net6.0\iflelse.csproj.CoreCompileInputs.cache
+D:\Sites\iflelse\obj\Debug\net6.0\iflelse.dll
+D:\Sites\iflelse\obj\Debug\net6.0\refint\iflelse.dll
+D:\Sites\iflelse\obj\Debug\net6.0\iflelse.pdb
+D:\Sites\iflelse\obj\Debug\net6.0\iflelse.genruntimeconfig.cache
+D:\Sites\iflelse\obj\Debug\net6.0\ref\iflelse.dll
